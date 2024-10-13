@@ -1,0 +1,8 @@
+C:\Users\sadullah.sener\source\repos\20230812_Metodlar_Ornek4\20230812_Metodlar_Ornek4\bin\Debug\20230812_Metodlar_Ornek4.exe.config
+C:\Users\sadullah.sener\source\repos\20230812_Metodlar_Ornek4\20230812_Metodlar_Ornek4\bin\Debug\20230812_Metodlar_Ornek4.exe
+C:\Users\sadullah.sener\source\repos\20230812_Metodlar_Ornek4\20230812_Metodlar_Ornek4\bin\Debug\20230812_Metodlar_Ornek4.pdb
+C:\Users\sadullah.sener\source\repos\20230812_Metodlar_Ornek4\20230812_Metodlar_Ornek4\obj\Debug\20230812_Metodlar_Ornek4.csproj.AssemblyReference.cache
+C:\Users\sadullah.sener\source\repos\20230812_Metodlar_Ornek4\20230812_Metodlar_Ornek4\obj\Debug\20230812_Metodlar_Ornek4.csproj.SuggestedBindingRedirects.cache
+C:\Users\sadullah.sener\source\repos\20230812_Metodlar_Ornek4\20230812_Metodlar_Ornek4\obj\Debug\20230812_Metodlar_Ornek4.csproj.CoreCompileInputs.cache
+C:\Users\sadullah.sener\source\repos\20230812_Metodlar_Ornek4\20230812_Metodlar_Ornek4\obj\Debug\20230812_Metodlar_Ornek4.exe
+C:\Users\sadullah.sener\source\repos\20230812_Metodlar_Ornek4\20230812_Metodlar_Ornek4\obj\Debug\20230812_Metodlar_Ornek4.pdb
